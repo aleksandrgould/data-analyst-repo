@@ -1,7 +1,3 @@
-# data-analyst-repo
-Included herein is my data analysis portfolio with projects completed for Yandex's "Practicum" Data Analyst professional training program.
-
-
 # Data
 - children: the number of children in the family
 - days_employed: how long the customer has been working
