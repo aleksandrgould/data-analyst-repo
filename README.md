@@ -1,6 +1,6 @@
 # Data
 
-- The visits table (server logs with data on website visits):
+The visits table (server logs with data on website visits):
 - Uid — user's unique identifier
 - Device — user's device
 - Start Ts — session start date and time
