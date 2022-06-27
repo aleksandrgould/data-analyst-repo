@@ -46,4 +46,4 @@ Identified the most profitable calling plans to optimize ad budget and performed
 
 
 # Libraries
-*pandas, matplotlib, math, scipy, numpy, nltk*
+*pandas, matplotlib, math, scipy, numpy*
