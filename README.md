@@ -12,4 +12,4 @@ Conduct an A/A/B experiment to test whether a proposed new website font improves
 
 # Libraries
 
-pandas, matplotlib, scipy,  numpy, plotly
+*pandas, matplotlib, scipy,  numpy, plotly*
