@@ -24,4 +24,4 @@ Analyzed user activity, KPI and LTV  metrics, and marketing ROI for for a techno
 
 # Libraries
 
-pandas, matplotlib, scipy, seaborn, numpy, plotly, functools, nltk
+*pandas, matplotlib, scipy, seaborn, numpy, plotly*
