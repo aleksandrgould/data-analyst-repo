@@ -17,7 +17,7 @@ The data:
 
 # Task
 
-Analyzed trending videos on YouTube, created a Tableau dashboard according to technical requirements            
+Analyzed trending videos on YouTube for an ad agency, created a Tableau dashboard according to technical requirements           
 and prepared a brief presentation containing a report
 
 # Libraries
