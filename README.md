@@ -16,4 +16,4 @@
 Identified patterns that determine whether a game is successful to develop advertising campaigns accordingly 
 
 # Libraries
-pandas, matplotlib, scipy, numpy, nltk
+pandas, matplotlib, scipy, numpy
