@@ -25,4 +25,4 @@ Prioritized hypotheses that may help boost revenue via the RICE framework, launc
 
 # Libraries
 
-pandas, matplotlib, scipy, seaborn, numpy, plotly, functools, nltk
+*pandas, matplotlib, scipy, seaborn, numpy, plotly*
