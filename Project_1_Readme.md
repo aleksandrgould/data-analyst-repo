@@ -18,5 +18,5 @@ Examine various socioeconomic and demographic metrics to determine the likelihoo
 
 # Libraries
 
-*pandas,*
+*pandas*
 
