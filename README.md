@@ -13,4 +13,4 @@ Analyzed current market conditions in Los Angeles for a "robo-café" start-up an
 
 # Libraries
 
-pandas, matplotlib, scipy,  numpy, plotly, regex
+*pandas, matplotlib, scipy,  numpy, plotly, regex*
