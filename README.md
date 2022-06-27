@@ -7,4 +7,4 @@
 Identified the top taxi companies, Explored passenger preferences and the impact of external factors on ride frequency and destinations,  neighborhoods with the most drop-offs, and conducted hypothesis testing
 
 # Libraries
-pandas, matplotlib, scipy, numpy, SQL, regex, nltk
+*pandas, matplotlib, scipy, numpy, SQL, regex, beautifulsoup* 
