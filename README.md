@@ -20,7 +20,7 @@
 
 # Task
 
-Built a model with machine learning algorithms to analyze customer profiles, analyzed the factors that impact churn, and suggested customer retention strategies
+Built a model with machine learning algorithms to analyze customer profiles, prioritized the factors that impact churn, and suggested customer retention strategies
 
 # Libraries
 
