@@ -3,7 +3,7 @@
  - 'Churn' — the fact of churn for the month in question
 
  - User data for the preceding month
-  - 'gender'
+  >- 'gender'
   - 'Near_Location' — whether the user lives or works in the neighborhood where the gym is located
   - 'Partner' — whether the user is an employee of a partner company (the gym has partner companies whose employees get discounts; in those cases the gym stores information on customers' employers)
   - Promo_friends — whether the user originally signed up through a "bring a friend" offer (they used a friend's promo code when paying for their first membership)
