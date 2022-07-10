@@ -25,4 +25,4 @@ Built a model with machine learning algorithms to analyze customer profiles, pri
 # Libraries
 
 ***sklearn***, ***pandas***, ***matplotlib***,
-***numpy***,***scipy***, ***eli5***, ***seaborn***
+***numpy***, ***scipy***, ***eli5***, ***seaborn***
