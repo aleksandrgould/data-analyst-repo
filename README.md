@@ -1,5 +1,5 @@
 # Practicum 
-Below are the Data Analyst projects I completed during Practicum by Yandex Data Analyst training course. The curriculum and spectrum of projects included, inter alia,  Data Preprocessing, Analysis and Visualization, Statistical Analysis, Data Collection & Storage, ETL, Automation, and Forecasts & Predictions using Machine Learning. 
+Below are the Data Analyst projects I completed during Practicum's Data Analyst training course. The curriculum and spectrum of projects included, inter alia,  Data Preprocessing, Analysis and Visualization, Statistical Analysis, Data Collection & Storage, ETL, Automation, and Forecasts & Predictions using Machine Learning. 
 
 | Project               | Description                                                                                 | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
