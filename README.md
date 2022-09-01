@@ -6,10 +6,13 @@
 
  - Personal interests include:
 
-                                            ◦ The US options market, technical and fundamental security analysis
-                                            ◦ Global trends in Macroeconomics & Finance         
-                                            ◦ Martial Arts & Fitness  
-                                            ◦ Making music (piano, guitar, DAWs)
+                                            - The US options market, technical and fundamental security analysis
+                                            - Global trends in Macroeconomics & Finance         
+                                            - Martial Arts & Fitness  
+                                            - Making music (piano, guitar, DAWs)6
+
+ ◦ Phone: 332.210.123
+ ◦ Email: aleksandr.gould@gmail.com
                                             
  
 
