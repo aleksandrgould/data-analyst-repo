@@ -1,4 +1,4 @@
-![alex](https://user-images.githubusercontent.com/47144563/187806992-5f82c695-7bc7-48c9-b55d-98c42f31cbc5.jpg)   ◦ Phone: 332.210.123 <br />
+![alex](https://user-images.githubusercontent.com/47144563/187806992-5f82c695-7bc7-48c9-b55d-98c42f31cbc5.jpg)   <br />◦ Phone: 332.210.123 <br />
  ◦ Email: aleksandr.gould@gmail.com
 
  - 1 year of experience in Data with 300+ hours developing working hypotheses through statistical data analysis 
