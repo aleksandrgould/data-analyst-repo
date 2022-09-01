@@ -10,7 +10,7 @@
                                             - The US options market, technical and fundamental security analysis
                                             - Global trends in Macroeconomics & Finance         
                                             - Martial Arts & Fitness  
-                                            - Making music (piano, guitar, DAWs)6
+                                            - Making music (piano, guitar, DAWs)
 
 <kbd>![image](https://user-images.githubusercontent.com/47144563/187808297-0ff26500-1fc3-42e4-9063-ecd72d499595.png)<kbd>
 
