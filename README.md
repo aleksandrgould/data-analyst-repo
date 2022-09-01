@@ -1,3 +1,5 @@
+![alex](https://user-images.githubusercontent.com/47144563/187806992-5f82c695-7bc7-48c9-b55d-98c42f31cbc5.jpg)
+
 # Practicum 
 Below are the Data Analyst projects I completed during Practicum's Data Analyst training course. The curriculum and spectrum of projects included, inter alia,  Data Preprocessing, Analysis and Visualization, Statistical Analysis, Data Collection & Storage, ETL, Automation, and Forecasts & Predictions using Machine Learning. 
 
