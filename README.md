@@ -19,7 +19,7 @@
 
 # Practicum 
 Below are the Data Analyst projects I completed during Practicum's Data Analyst training course. The curriculum and spectrum of projects included, inter alia,  Data Preprocessing, Analysis and Visualization, Statistical Analysis, Data Collection & Storage, ETL, Automation, and Forecasts & Predictions using Machine Learning. 
-<kbd>
+
 | Project               | Description                                                                                 | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
 |[Credit Risk Analysis](https://github.com/aleksandrgould/data-analyst-repo/tree/Project-1 "Credit Risk Analysis")|Analyzed borrowers’ risk of defaulting |***pandas***|
@@ -33,4 +33,3 @@ Below are the Data Analyst projects I completed during Practicum's Data Analyst 
 |[Food Store App Font Hypothesis Testing](https://github.com/aleksandrgould/data-analyst-repo/tree/Project-9 "Font Hypothesis Testing")|Conducted an A/A/B experiment to test whether a font improves KPIs|***pandas***, ***scipy***, ***matplotlib***, ***numpy***, ***math***, ***plotly***|
 |[Youtube Video Category Trend Trend Analysis Automation](https://github.com/aleksandrgould/data-analyst-repo/tree/Project-10 "Trend Automation")|Analyzed trending videos on YouTube and created a Tableau dashboard according to technical requirements|***Tableau***|
 |[Machine Learning Customer Interaction Strategies](https://github.com/aleksandrgould/data-analyst-repo/tree/Project-11 "ML Customer Profile Analysis")|Analyzed gym member profiles, trained ML algorithms to predict churn and feature importance, and suggested customer retention startegies|***sklearn***, ***pandas***, ***matplotlib***, ***numpy***, ***scipy***, ***eli5***, ***seaborn***|
-<kbd>
