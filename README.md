@@ -1,4 +1,5 @@
-![alex](https://user-images.githubusercontent.com/47144563/187806992-5f82c695-7bc7-48c9-b55d-98c42f31cbc5.jpg)  
+![alex](https://user-images.githubusercontent.com/47144563/187806992-5f82c695-7bc7-48c9-b55d-98c42f31cbc5.jpg)   ◦ Phone: 332.210.123
+ ◦ Email: aleksandr.gould@gmail.com
 
  - 1 year of experience in Data with 300+ hours developing working hypotheses through statistical data analysis 
 
@@ -11,8 +12,7 @@
                                             - Martial Arts & Fitness  
                                             - Making music (piano, guitar, DAWs)6
 
- ◦ Phone: 332.210.123
- ◦ Email: aleksandr.gould@gmail.com
+
                                             
  
 
