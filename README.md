@@ -1,22 +1,3 @@
-![alex](https://user-images.githubusercontent.com/47144563/187806992-5f82c695-7bc7-48c9-b55d-98c42f31cbc5.jpg) <br />◦ Phone: +1.332.210.1623 
-<br />◦ Email: aleksandr.gould@gmail.com
-
- - 1 year of experience in Data with 300+ hours developing working hypotheses through statistical data analysis 
-
- - Love for learning natural languages (Russian, Spanish, French, Mandarin)
-
- - Personal interests include:
-
-                                            - The US options market, technical and fundamental security analysis
-                                            - Global trends in Macroeconomics & Finance         
-                                            - Martial Arts & Fitness  
-                                            - Making music (piano, guitar, DAWs)
-
-<kbd>![image](https://user-images.githubusercontent.com/47144563/187808297-0ff26500-1fc3-42e4-9063-ecd72d499595.png)<kbd>
-
-                                            
- 
-
 # Practicum 
 Below are the Data Analyst projects I completed during Practicum's Data Analyst training course. The curriculum and spectrum of projects included, inter alia,  Data Preprocessing, Analysis and Visualization, Statistical Analysis, Data Collection & Storage, ETL, Automation, and Forecasts & Predictions using Machine Learning. 
 
